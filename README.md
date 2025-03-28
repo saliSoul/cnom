@@ -1,16 +1,16 @@
 
 **Étapes d'installation :** 
 
-    ***Clonez le repository :***
+    Clonez le repository :
 
-        git clone https://github.com/saliSoul/nom-du-repository.git
-        cd nom-du-repository
+        git clone https://github.com/saliSoul/cnom.git
+        cd cnom
 
-    ***Installez les dépendances :***
+    Installez les dépendances :
 
         npm install
 
-    ***Lancez l'application en mode développement :***
+    Lancez l'application en mode développement :
 
         npm start
 
